@@ -1,2 +1,2 @@
 # vimrc
-.vimrc configuration
+Kali .vimrc configuration
